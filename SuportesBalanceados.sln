@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuportesBalanceados.Application", "SuportesBalanceados.Application\SuportesBalanceados.Application.csproj", "{9ADAD01B-6E80-4348-A8BE-5FAD9F3577B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuportesBalanceados.Test", "SuportesBalanceados.Test\SuportesBalanceados.Test.csproj", "{C587DC67-5C87-4B2E-9ED5-EE20E551078F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ADAD01B-6E80-4348-A8BE-5FAD9F3577B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ADAD01B-6E80-4348-A8BE-5FAD9F3577B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ADAD01B-6E80-4348-A8BE-5FAD9F3577B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ADAD01B-6E80-4348-A8BE-5FAD9F3577B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C587DC67-5C87-4B2E-9ED5-EE20E551078F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C587DC67-5C87-4B2E-9ED5-EE20E551078F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C587DC67-5C87-4B2E-9ED5-EE20E551078F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C587DC67-5C87-4B2E-9ED5-EE20E551078F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
