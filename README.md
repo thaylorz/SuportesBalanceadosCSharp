@@ -1,5 +1,3 @@
-# Read
-
 ## **Desafio: Verificar se uma string de colchetes é válida**
 
 ### **Descrição do problema**
